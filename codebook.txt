@@ -1,9 +1,9 @@
-#Codebook
+#Codebook for tidy_data.txt
 
 ##Variables:
     (1) subject
     (2) activity
-    (3) measurement
+    (3) factor
     (4) mean
 
 # Subject
@@ -22,7 +22,7 @@ The activity name with the following possible values.
 6             LAYING
 
 
-# Measurement
+# Factor
 
 
 "tBodyAcc-mean()-X"
